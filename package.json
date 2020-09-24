@@ -20,5 +20,9 @@
   "dependencies": {
     "request": "^2.88.2",
     "request-promise": "^4.2.6"
+  },
+  "devDependencies": {
+    "eslint": "^7.9.0",
+    "eslint-config-lighthouselabs": "github:lighthouse-labs/eslint-config-lighthouselabs"
   }
 }
